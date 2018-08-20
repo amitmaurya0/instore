@@ -1,0 +1,36 @@
+{
+  "expo": {
+    "name": "instore",
+    "description": "This project is really great.",
+    "slug": "instore",
+    "privacy": "public",
+    "sdkVersion": "29.0.0",
+    "platforms": ["ios", "android"],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "facebookAppId":"1983410771714943",
+    "facebookScheme":"fb1983410771714943",
+    "facebookDisplayName": "InStore",
+    "extra":{
+      "googleAppId": {
+        "ios": "891984988887-bdg0koqcka5g2gsacpfn81p2tnfiutq9.apps.googleusercontent.com",
+        "android": "891984988887-vfudrub44442athdkpc2lj096uu8ep0g.apps.googleusercontent.com"
+      }
+    }
+  }
+}
